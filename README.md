@@ -2,8 +2,8 @@
 
 ### My name is: Leonardo Luis Klein ⚡
 
-🌱 I’m currently learning Vue.js with AEM
-📫 Contact: leonardoluis.klein@outlook.com
+### 🌱 I’m currently learning Vue.js with AEM
+### 📫 Contact: leonardoluis.klein@outlook.com
 
 <div align="center">
   <a href="https://github.com/LeonardoLuisKlein">
