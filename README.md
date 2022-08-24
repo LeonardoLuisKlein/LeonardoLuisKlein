@@ -3,10 +3,11 @@
 ### My name is: <a href="https://www.instagram.com/leonardoluis.klein/">Leonardo Luis Klein ⚡</a>
 
 ## Always looking forward 🔥
-
- 👨‍💻Front end web developer
- 🌱 I’m currently learning Vue.js with AEM
- 📫 Contact: leonardoluis.klein@outlook.com
+<ul>
+ <li>👨‍💻Front end web developer </li>
+ <li>🌱 I’m currently learning Vue.js with AEM </li>
+ <li>📫 Contact: leonardoluis.klein@outlook.com </li>
+ </ul>
 
 <div align="center">
   <a href="https://github.com/LeonardoLuisKlein">
