@@ -2,8 +2,11 @@
 
 ### My name is: <a href="https://www.instagram.com/leonardoluis.klein/">Leonardo Luis Klein ⚡</a>
 
-### 🌱 I’m currently learning Vue.js with AEM
-### 📫 Contact: leonardoluis.klein@outlook.com
+## Always looking forward 🔥
+
+ 👨‍💻Front end web developer
+ 🌱 I’m currently learning Vue.js with AEM
+ 📫 Contact: leonardoluis.klein@outlook.com
 
 <div align="center">
   <a href="https://github.com/LeonardoLuisKlein">
