@@ -7,6 +7,7 @@
  <li>👨‍💻Front end web developer </li>
  <li>🌱 I’m currently learning Vue.js with AEM </li>
  <li>📫 Contact: leonardoluis.klein@outlook.com </li>
+ <li>💼 Lets connect in <a href="https://www.linkedin.com/in/leonardo-luis-klein-00857b237/">Linkedin</a></li>
  </ul>
 
 <div align="center">
