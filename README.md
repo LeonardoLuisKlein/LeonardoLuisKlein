@@ -1,8 +1,8 @@
-### Hi there 👋
+## Hi there 👋
 
-### My name is: <a href="https://www.instagram.com/leonardoluis.klein/">Leonardo Luis Klein ⚡</a>
+## My name is: <a href="https://www.instagram.com/leonardoluis.klein/">Leonardo Luis Klein ⚡</a>
 
-## Always looking forward 🔥
+### Always looking forward 🔥
 <ul>
  <li>👨‍💻Front end web developer </li>
  <li>🌱 I’m currently learning Vue.js with AEM </li>
