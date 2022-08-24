@@ -2,10 +2,12 @@
 
 ## My name is: <a href="https://www.instagram.com/leonardoluis.klein/">Leonardo Luis Klein ⚡</a>
 
-### Always looking forward 🔥
+### Passionate web developer 🔥
 <ul>
  <li>👨‍💻Front end web developer </li>
- <li>🌱 I’m currently learning Vue.js with AEM </li>
+ <li>🔭 I’m currently working on Vue.js with AEM </li>
+ <li>🌱 I'm always looking to learn </li>
+ <li>👯 Always looking to collaborate </li>
  <li>📫 Contact: leonardoluis.klein@outlook.com </li>
  <li>💼 Lets connect in <a href="https://www.linkedin.com/in/leonardo-luis-klein-00857b237/">Linkedin</a></li>
  </ul>
