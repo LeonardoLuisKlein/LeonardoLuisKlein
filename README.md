@@ -10,6 +10,7 @@
  <li>👯 Always looking to collaborate </li>
  <li>📫 Contact: leonardoluis.klein@outlook.com </li>
  <li>💼 Lets connect in <a href="https://www.linkedin.com/in/leonardo-luis-klein-00857b237/">Linkedin</a></li>
+ <li>💫<a href="https://portifolio-leonardo.netlify.app/#/">Website</a>
  </ul>
 
 <div align="center">
