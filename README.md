@@ -4,7 +4,7 @@
 
 ### Passionate web developer 🔥
 <ul>
- <li>👨‍💻Front end web developer </li>
+ <li>👨‍💻 Front end web developer </li>
  <li>🔭 I’m currently working on Vue.js with AEM </li>
  <li>🌱 I'm always looking to learn </li>
  <li>👯 Always looking to collaborate </li>
