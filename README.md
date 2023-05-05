@@ -15,7 +15,7 @@
 
 <div align="center">
   <a href="https://github.com/LeonardoLuisKlein">
-  <img height="360em" src="https://github-readme-stats.vercel.app/api?username=LeonardoLuisKlein&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=LeonardoLuisKlein&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 </div>
