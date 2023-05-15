@@ -5,7 +5,7 @@
 ### Passionate web developer 🔥
 <ul>
  <li>👨‍💻 Front end web developer </li>
- <li>🔭 I’m currently working on Vue.js with AEM </li>
+<!--  <li>🔭 I’m currently working on Vue.js with AEM </li> -->
  <li>🌱 For personal, school and professional work </li>
  <li>👯 Always looking to collaborate </li>
  <li>📫 Contact: leonardoluis.klein@outlook.com </li>
