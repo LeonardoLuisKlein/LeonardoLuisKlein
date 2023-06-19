@@ -4,9 +4,10 @@
 
 ### Passionate web developer 🔥
 <ul>
+ <li>👨🏼‍🎓 Studyng Computer Science at URI Erechim </li>
  <li>👨‍💻 Front end web developer </li>
 <!--  <li>🔭 I’m currently working on Vue.js with AEM </li> -->
- <li>🌱 For personal, school and professional work </li>
+ <li>🌱 For personal, college and professional work </li>
  <li>👯 Always looking to collaborate </li>
  <li>📫 Contact: leonardoluis.klein@outlook.com </li>
  <li>💼 Lets connect in <a href="https://www.linkedin.com/in/leonardo-luis-klein-00857b237/">Linkedin</a></li>
