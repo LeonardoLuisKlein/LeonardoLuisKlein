@@ -1,46 +1,46 @@
-## Hi there 👋
+## Hey there! I'm **Leonardo Luis Klein** ⚡
 
-## My name is: <a href="https://www.instagram.com/leonardoluis.klein/">Leonardo Luis Klein ⚡</a>
+[Instagram](https://www.instagram.com/leonardoluis.klein/) · [LinkedIn](https://www.linkedin.com/in/leonardo-luis-klein-00857b237/) · [Portfolio](https://portifolio-leonardo.netlify.app/#/)
 
-### Passionate web developer 🔥
-<ul>
- <li>👨🏼‍🎓 Studyng Computer Science at URI Erechim </li>
- <li>👨‍💻 Front end web developer </li>
-<!--  <li>🔭 I’m currently working on Vue.js with AEM </li> -->
- <li>🌱 For personal, college and professional work </li>
- <li>👯 Always looking to collaborate </li>
- <li>📫 Contact: leonardoluis.klein@outlook.com </li>
- <li>💼 Lets connect in <a href="https://www.linkedin.com/in/leonardo-luis-klein-00857b237/">Linkedin</a></li>
- <li>💫 <a href="https://portifolio-leonardo.netlify.app/#/">Website</a></li>
- </ul>
+### Full-Stack Developer · AI-Driven Problem Solver
 
-<!--<div align="center">
-  <a href="https://github.com/LeonardoLuisKlein">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=LeonardoLuisKlein&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>-->
+I build real-world web applications from backend to frontend, leveraging AI to automate workflows and improve UX.  
+I value clean code, pragmatic design, and shipping things that actually make a difference.
 
+---
+
+### 💼 Currently
+**Software Engineer at [beecrowd](https://www.beecrowd.com)**  
+Working on full-stack development for large-scale educational and recruitment platforms, combining PHP (CakePHP), JavaScript, and PostgreSQL — with a growing focus on AI-assisted development and automation.
+
+---
+
+### 🧠 Tech Stack
+<div style="display:inline-block"><br>
+  <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript">
+  <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React">
+  <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="Node.js">
+  <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python">
+  <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" title="PHP / CakePHP">
+  <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL">
+  <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5">
+  <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3">
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Leo-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="Leo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<!--   <img align="center" alt="Leo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
-  <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Leo-SAAS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-</div>
-  
-<!--
-**LeonardoLuisKlein/LeonardoLuisKlein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Interests
+- AI applied to software products (RAG, copilots, document automation)  
+- APIs and workflow automations (Node.js / Python + OpenAI API)  
+- Frontend with React focused on speed and usability  
+
+---
+
+### 🎓 Education
+**B.Sc. in Computer Science (2021–2024)**  
+Universidade Regional Integrada do Alto Uruguai e das Missões (URI), **Erechim – Brazil**
+
+---
+
+### 📫 Contact
+**Email:** leonardoluis.klein@outlook.com
