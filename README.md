@@ -1,6 +1,6 @@
 ## Hey there! I'm **Leonardo Luis Klein** ⚡
 
-[Instagram](https://www.instagram.com/leonardoluis.klein/) · [LinkedIn](https://www.linkedin.com/in/leonardo-luis-klein-00857b237/) · [Portfolio](https://portifolio-leonardo.netlify.app/#/)
+[Instagram](https://www.instagram.com/leonardoluis.klein/) · [LinkedIn](https://www.linkedin.com/in/leonardo-luis-klein-00857b237/)
 
 ### Full-Stack Developer · AI-Driven Problem Solver
 
